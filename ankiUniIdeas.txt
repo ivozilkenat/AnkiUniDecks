@@ -1,0 +1,27 @@
+>Mathe<
+-Russelss Paradox "Dieser Satz ist falsch"
+-Prinzip des ausg. Dritten
+-Defintion 3.8: Vereinigung, Durchschnitt n-Mengen
+
+-Beweis der Mengengleichheit, über E_1 und E_2
+-n-Tupel aus Mengen konstruieren
+
+>Modellierung<
+-Dikussion über 2 Definitionen von Schlüsselkandidaten
+-ohne Beschränkung der Allgemeinheit?
+-mod_4.5 Was ER nicht modellieren kann -> speziell 3er Beziehungen
+-Entitäten als Funktionen (ca. 4.3/2)
+
+-UML Motiviation?
+
+-Klassifikation von Verhalten
+-Automat Endzustand = Startzustand
+-mehr nicht deterministische Automaten
+
+-Semantik: hierarchische Zustände (6.5)
+-Terminations-Pseudozustand (6.6)
+-Protokollautomat (6.6)
+
+-Menge*
+
+!Quizfragen durcharbeiten!
