@@ -1,3 +1,5 @@
+Dieses Dokument standartisieren
+
 >Mathe<
 -Russelss Paradox "Dieser Satz ist falsch"
 -Prinzip des ausg. Dritten
@@ -23,5 +25,7 @@
 -Protokollautomat (6.6)
 
 -Menge*
+-8.4 bis 0 - 7
+-tBPMN
 
 !Quizfragen durcharbeiten!
