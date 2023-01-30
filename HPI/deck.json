@@ -1,0 +1,3582 @@
+{
+    "__type__": "Deck",
+    "children": [
+        {
+            "__type__": "Deck",
+            "children": [
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "68fd9482-a0ac-11ed-9300-491ec67777b1",
+                    "deck_config_uuid": "68fd9734-a0ac-11ed-9300-491ec67777b1",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "giphy.gif",
+                        "paste-328206bb1763be9ae2001189cdb35c92ecdce6e6.jpg",
+                        "paste-3ef4ea5eddfeb96f5028ecf7d63a55dea6fcd2d5.jpg"
+                    ],
+                    "name": "Betriebssystemschnittstelle",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What is my purpose?",
+                                "Du existierst, damit dein Deck geöffnet werden kann.<br><br>Oh God."
+                            ],
+                            "guid": "FrJ5v]k|JA",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie funktioniert basically alles bei <b>UNIX</b>?",
+                                "Über Dateien<br><a href=\"http://timanderic.tumblr.com/post/2127050969/and-were-back\"><div><img alt=\"Eric Wareheim Mind Blown GIF by Tim and Eric\" src=\"giphy.gif\"></div></a>"
+                            ],
+                            "guid": "bfD|6ze=7H",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann man ungebuffert schreiben und lesen?",
+                                "<img src=\"paste-328206bb1763be9ae2001189cdb35c92ecdce6e6.jpg\">"
+                            ],
+                            "guid": "zLomrVz&)Y",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was muss beim erstellen neuer Dateien mit <b>creat()</b> beachtet werden?",
+                                "Sollte eine gleichnamige Datei im Verzeichnis schon existieren, wird sie überschrieben."
+                            ],
+                            "guid": "qiH}T3&|!%",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie funktionieren <b>UNIX</b> Zugriffsrechte?",
+                                "<img src=\"paste-3ef4ea5eddfeb96f5028ecf7d63a55dea6fcd2d5.jpg\">"
+                            ],
+                            "guid": "zeY_QU(gM=",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "68fc49c4-a0ac-11ed-9300-491ec67777b1",
+                    "deck_config_uuid": "68fc4bae-a0ac-11ed-9300-491ec67777b1",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "paste-0371b05e19421283b4bf29950c0b8cd4279dcb34.jpg",
+                        "paste-0a7ff1edec36a7caa8fc4e1ed8f0df9604f72c38.jpg",
+                        "paste-1195e432198ceeae701decf53787daa29e46daf5.jpg",
+                        "paste-1614edd89e5bffff23c70ca2978d8f90b32d5cd0.jpg",
+                        "paste-1ec32fb631fa683504e39fe74f2d88f231df67f4.jpg",
+                        "paste-27e9864726128bf10ad64fb2a271a99996fecf37.jpg",
+                        "paste-3f69d43e10c0105d7710c789309d73139043b1a7.jpg",
+                        "paste-42fb834c063922991294fbd594b5aa91b7e64bcf.jpg",
+                        "paste-65cc0c4820e76aa83682411cb6d0d0a0e6c7bd4a.jpg",
+                        "paste-68ac33e6475fea9b8fcf9816f3c238d20b422e56.jpg",
+                        "paste-78416902b3c1bf8268c064790d5f275b43d3bc01.jpg",
+                        "paste-7c214c603499cf4f324000de67e2ecb12914bdab.jpg",
+                        "paste-8b2de85d10f8ebb8e68633cad8e1bff055d7fff1.jpg",
+                        "paste-8beb342ab4ddd086ae68611d6caf0cb14a5d9e73.jpg",
+                        "paste-9b8fe1f678efaab20f2507163933a9d35141f536.jpg",
+                        "paste-a4c5ef99ce15c111e4f8c6b3fad297507fefbc2f.jpg",
+                        "paste-a95f1eaec3ffe9bbfa591e25b6d56b1c1b170ec5.jpg",
+                        "paste-ad29d36e644186590706ca9faeb220dbd745a8b5.jpg",
+                        "paste-d2ba00ce8bbf67d52bb832231a84a01fcc992aba.jpg",
+                        "paste-dec2ba7af2cf9fa8c03348e7f626e7c06bbcc8cf.jpg",
+                        "paste-e62025a16b0a426e43898235fcf908632f67d4e3.jpg",
+                        "paste-eb91d757b17a4caec1c321842f3c7d70530a29b9.jpg",
+                        "paste-f581886d26484c73406d2de52c6a02f9de71adcd.jpg",
+                        "paste-fd06f06749e9b94ff74c98e49f15bad205e863b3.jpg"
+                    ],
+                    "name": "Datentypen",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What is my purpose?",
+                                "Du existierst, damit dein Deck geöffnet werden kann.<br><br>Oh God."
+                            ],
+                            "guid": "xo*S8}e9sP",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wo fängt ein C-Program an?",
+                                "Bei der Funktion mit dem Namen <b>main</b>"
+                            ],
+                            "guid": "Q0p@I9ttC9",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Strukturmerkmale enthält ein typisches C-Program?",
+                                "<img src=\"paste-68ac33e6475fea9b8fcf9816f3c238d20b422e56.jpg\">"
+                            ],
+                            "guid": "N*NkF;VwS,",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist <b>include </b>und wie ruft man es auf?",
+                                "-Include ist eine Präprozessoranweisung<br>=&gt; Sie fügt den gesamten Textinhalt der referenzierten Datei ein<br><br><img src=\"paste-a95f1eaec3ffe9bbfa591e25b6d56b1c1b170ec5.jpg\">"
+                            ],
+                            "guid": "w,P)sZ8~=E",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie funktioniert eine <b>Makrodefinition</b>?",
+                                "<img src=\"paste-0a7ff1edec36a7caa8fc4e1ed8f0df9604f72c38.jpg\">"
+                            ],
+                            "guid": "ut-a&`U*RV",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Worauf ist bei <b>Makro-Expansion </b>zu achten und welche weiteren Operatoren gibt es?",
+                                "<img src=\"paste-dec2ba7af2cf9fa8c03348e7f626e7c06bbcc8cf.jpg\">"
+                            ],
+                            "guid": "er1NNE)F;a",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie funktioniert bedingute Ausführung im Präprozessor?",
+                                "<img src=\"paste-1ec32fb631fa683504e39fe74f2d88f231df67f4.jpg\">"
+                            ],
+                            "guid": "em=[Pw*wD,",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist eine <b>Datenstruktur</b>?",
+                                "<img src=\"paste-1614edd89e5bffff23c70ca2978d8f90b32d5cd0.jpg\">"
+                            ],
+                            "guid": "H<xPtAw$rW",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sind <b>Variablen</b>&nbsp;und <b>Konstanten</b>?",
+                                "<img src=\"paste-3f69d43e10c0105d7710c789309d73139043b1a7.jpg\">"
+                            ],
+                            "guid": "JG]s<CHH.T",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche skalaren (atomaren) Datentypen gibt es in C?",
+                                "<img src=\"paste-65cc0c4820e76aa83682411cb6d0d0a0e6c7bd4a.jpg\">"
+                            ],
+                            "guid": "J/y!4e$H7Q",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Qualifizierer gibt es in C?",
+                                "<img src=\"paste-8b2de85d10f8ebb8e68633cad8e1bff055d7fff1.jpg\">"
+                            ],
+                            "guid": "Egc8~rB)7A",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann man Konstanten verschiedener Typen definieren ohne explizite Deklaration (Im Code)",
+                                "<img src=\"paste-ad29d36e644186590706ca9faeb220dbd745a8b5.jpg\">"
+                            ],
+                            "guid": "iG-4||/W*X",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie wird eine Zeichenkonstante deklariert?",
+                                "<img src=\"paste-1195e432198ceeae701decf53787daa29e46daf5.jpg\">"
+                            ],
+                            "guid": "A;TroCz8Z[",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist eine Zeichenkette? Wie addressiert man einzelne Zeichen? Welche typischen Funktionen wendet man auf ihnen an?",
+                                "<img src=\"paste-0371b05e19421283b4bf29950c0b8cd4279dcb34.jpg\">"
+                            ],
+                            "guid": "DkPyLn8f<6",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sind <b>enums</b>, +Syntax, +Vergleich #define",
+                                "<img src=\"paste-d2ba00ce8bbf67d52bb832231a84a01fcc992aba.jpg\">"
+                            ],
+                            "guid": "g_B]2&z/pi",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Kann kann man mehrere Variablen gleichzeitig deklarieren?",
+                                "<img src=\"paste-9b8fe1f678efaab20f2507163933a9d35141f536.jpg\">"
+                            ],
+                            "guid": "QRT/p8UN;/",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie verhalten sich lokale Variablen?",
+                                "Sie werden auf dem Stack gespeichert und nach dem Ende des Scopes entfernt.<br><br><img src=\"paste-e62025a16b0a426e43898235fcf908632f67d4e3.jpg\">"
+                            ],
+                            "guid": "Hb(eK!_8h&",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie verhalten sich konstante Variablen?",
+                                "<img src=\"paste-fd06f06749e9b94ff74c98e49f15bad205e863b3.jpg\">"
+                            ],
+                            "guid": "meNk/?VsBf",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche artihmetischen Operationen gibt es in C? Welche Ausführungsreihenfolge gilt?",
+                                "<img src=\"paste-eb91d757b17a4caec1c321842f3c7d70530a29b9.jpg\">"
+                            ],
+                            "guid": "xqgBhZC+@4",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche logischen/relationalen Operationen gibt es?",
+                                "<img src=\"paste-f581886d26484c73406d2de52c6a02f9de71adcd.jpg\">"
+                            ],
+                            "guid": "qJ~2%yC>$G",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie in/dekrementiert man in C? Welche Ausführungsreihenfolge gilt?",
+                                "<img src=\"paste-7c214c603499cf4f324000de67e2ecb12914bdab.jpg\">"
+                            ],
+                            "guid": "l545LNqF;]",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche bitweisen Operationen gibt es?",
+                                "<img src=\"paste-27e9864726128bf10ad64fb2a271a99996fecf37.jpg\">"
+                            ],
+                            "guid": "f)OF!!=-|.",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Auf welchen Datentypen lassen sich Bitmanipulationen durchführen?",
+                                "char, short, int, long"
+                            ],
+                            "guid": "AfVQzxlEzy",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie löscht/setzt man Bits via Bitmanipulation?",
+                                "<img src=\"paste-a4c5ef99ce15c111e4f8c6b3fad297507fefbc2f.jpg\">"
+                            ],
+                            "guid": "Pb0{!n2{W{",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was macht der Shift-Operator? Welche Shift-Arten muss man bei vorzeichenbehafteten Zahlen beachten?",
+                                "<img src=\"paste-78416902b3c1bf8268c064790d5f275b43d3bc01.jpg\">"
+                            ],
+                            "guid": "jc-7Y~VeSt",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was passiert bei <b>Typkonvertierung</b>? Welche \"Promotion\"-Richtung wird für Operationen genutzt?",
+                                "<img src=\"paste-8beb342ab4ddd086ae68611d6caf0cb14a5d9e73.jpg\">"
+                            ],
+                            "guid": "cZLRd0[6Q%",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann man explizit Typen konvertieren (<b>type casting</b>)",
+                                "<img src=\"paste-42fb834c063922991294fbd594b5aa91b7e64bcf.jpg\">"
+                            ],
+                            "guid": "h$DBCtQ(aU",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "68fd664c-a0ac-11ed-9300-491ec67777b1",
+                    "deck_config_uuid": "68fd6890-a0ac-11ed-9300-491ec67777b1",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "Screenshot 2023-01-30 at 15.10.18.png",
+                        "Screenshot 2023-01-30 at 15.10.59.png",
+                        "Screenshot 2023-01-30 at 15.20.09.png",
+                        "Screenshot 2023-01-30 at 15.21.07.png",
+                        "paste-98277a29c841d6cb78ae3b987a8aa503fe6c4f6a.jpg",
+                        "paste-e20c3a16db34f7442314c21ca50dcc248851552e.jpg"
+                    ],
+                    "name": "Ein-/Ausgabe",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What is my purpose?",
+                                "Du existierst, damit dein Deck geöffnet werden kann.<br><br>Oh God."
+                            ],
+                            "guid": "e&<t(E3jdm",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Auf welche <b>Datenströme</b> hat jedes <b>C-Programm</b> standartmäßig Zugriff?",
+                                "<b>stdin</b>, <b>stdout</b>, <b>stderry<br></b><img src=\"Screenshot 2023-01-30 at 15.10.18.png\">"
+                            ],
+                            "guid": "kE6sujf=yW",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann man in einer <b>UNIX-Shell</b> die <b>stdin</b> ersetzten?",
+                                "<img src=\"Screenshot 2023-01-30 at 15.10.59.png\">"
+                            ],
+                            "guid": "G?6#R)m+:+",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann man in einer <b>UNIX-Shell</b> <b>stdout</b> und <b>stderr</b> ersetzen?",
+                                "$ prog <b>&gt;</b>outfile <b>2&gt;</b>errfile;"
+                            ],
+                            "guid": "Giid@Hb/*.",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wo schreibt <b>printf()</b> hin?<br>Welche Abwandlungen gibt es?",
+                                "<b>printf()</b> schreibt nach&nbsp;<b>stdout.</b><br>Es gibt allerdings auch <b>fprintf()</b> und <b>sprintf()</b>, welche respektiv in <b>eine andere Datei</b> oder in einen <b>string</b> im Speicher schreiben.&nbsp;&nbsp;"
+                            ],
+                            "guid": "n+i_[!_Tci",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Ich bin eine Tabelle mit einigen <b>printf()</b> Argumenten.",
+                                "<img src=\"paste-e20c3a16db34f7442314c21ca50dcc248851552e.jpg\">"
+                            ],
+                            "guid": "E($-<{w4L^",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie funktioniert eine <b>Variable Argumentenliste</b>?",
+                                "<img src=\"Screenshot 2023-01-30 at 15.20.09.png\">"
+                            ],
+                            "guid": "E;9WU2FY)H",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Dateioperationen gibt es?",
+                                "<img src=\"Screenshot 2023-01-30 at 15.21.07.png\"><br><img src=\"paste-98277a29c841d6cb78ae3b987a8aa503fe6c4f6a.jpg\">"
+                            ],
+                            "guid": "suqps2-F.B",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "68fcdb5a-a0ac-11ed-9300-491ec67777b1",
+                    "deck_config_uuid": "68fcdd12-a0ac-11ed-9300-491ec67777b1",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "Screenshot 2023-01-29 at 21.12.33.png",
+                        "Screenshot 2023-01-29 at 21.16.06.png",
+                        "Screenshot 2023-01-29 at 21.45.23.png",
+                        "paste-26d48ca3cc72032a7e65a2aefe7da6057cf3ab35.jpg",
+                        "paste-3f101b5dd181032532b828aa4685850d6b7b4842.jpg",
+                        "paste-703aa0c631841a095c8e2ea53067fd19af96849e.jpg",
+                        "paste-a0a76c140d82f7c34bafc9c54f77f8759f042401.jpg",
+                        "paste-f765f220e239675feca1635723c368806ad1afc6.jpg",
+                        "paste-f9b1e6c7a4446bc9b500563136adb35e22436c42.jpg"
+                    ],
+                    "name": "Funktionen",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Warum sind Funktionen sinnvoll?",
+                                "<img src=\"Screenshot 2023-01-29 at 21.12.33.png\">"
+                            ],
+                            "guid": "nj%~O+Ysw~",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Warum sollte man <b>Funktionen</b> <b>Pointer</b> statt <b>Variablen</b> geben?",
+                                "Funktionen erhalten nur Kopien von Variablen, nicht ihr Original. Wenn man also möchte, dass die Funktion Variablen außerhalb ihres Rückgabewertes verändert, sollte man Pointer übergeben. Die Funktion kann dann an diese Adresse schauen, und dort etwas verändern."
+                            ],
+                            "guid": "ccTNtu3?O|",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sind die zwei Sichtweisen auf Funktionen?",
+                                "<img src=\"Screenshot 2023-01-29 at 21.16.06.png\">"
+                            ],
+                            "guid": "w/&eeFH-|I",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wo liegen Funktionsparameter und Rückgabewerte?",
+                                "Auf dem Stack"
+                            ],
+                            "guid": "qC7UdJgduh",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist ein Seiteneffekt?",
+                                "Die Veränderung von Variablen außerhalb des Scopes einer Funktion. Seiteneffekte könnten bewusst/gewollt und ungewusst passieren. Um letzteres zu verhindern ---&gt; Kapselung/information hiding"
+                            ],
+                            "guid": "j-|OQn&eq)",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Warum gibt es <b>Headerfiles</b>?",
+                                "<img src=\"paste-3f101b5dd181032532b828aa4685850d6b7b4842.jpg\">"
+                            ],
+                            "guid": "B2Z57ev!|%",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist der <b>Stack Frame</b>?",
+                                "<img src=\"paste-f9b1e6c7a4446bc9b500563136adb35e22436c42.jpg\">"
+                            ],
+                            "guid": "ps(s{1`2U&",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wer ist in <b>C</b> (und <b>C++</b>) für den <b>Stack</b> verantwortlich?",
+                                "<img src=\"paste-a0a76c140d82f7c34bafc9c54f77f8759f042401.jpg\">"
+                            ],
+                            "guid": "rOB*K!-W4j",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Arten der Parameterübergabe gibt es?",
+                                "<img src=\"paste-f765f220e239675feca1635723c368806ad1afc6.jpg\">"
+                            ],
+                            "guid": "Musmmnt(F)",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was muss bei der Deklaration einer Funktion angegeben werden?",
+                                "Returntype, Name und Parameter.<br>Insbesondere der Returntype ist wichtig, damit der Aufrufer weis, wie er mit dem Stackframe umgehen muss.<br><br>"
+                            ],
+                            "guid": "/R+pf2]0`",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist Rekursion bzw. eine rekursive Funktion?",
+                                "Eine selbstreferenzierende Funktion, die sich selbt (direkt oder indirekt) nochmal aufruft.<br><br><img src=\"paste-26d48ca3cc72032a7e65a2aefe7da6057cf3ab35.jpg\">"
+                            ],
+                            "guid": "fUDHgs!t[g",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sind Vor-/und Nachteile von Rekursion?",
+                                "<img src=\"paste-703aa0c631841a095c8e2ea53067fd19af96849e.jpg\">"
+                            ],
+                            "guid": "G%=31mbbd.",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist wechselseitige Rekursion?",
+                                "<div>\n<div>\n<div>\n<div>\n<div><span style=\"font-weight: 700;\">Wechselseitige Rekursion</span>: In der Definition der Funktion 𝑓 wird die\nFunktion 𝑔 aufgerufen, und in der Definition von 𝑔 wird 𝑓 aufgerufen&nbsp;</div>\n</div>\n</div>\n</div></div>"
+                            ],
+                            "guid": "H1p=j;H!,R",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was für Typen von Rekursion gibt es?",
+                                "1) Endrekursion; es wird mehrfach auf die selbe Funktion zurückgegriffen<br>2) Lineare Rekursion;&nbsp;<img src=\"Screenshot 2023-01-29 at 21.45.23.png\">"
+                            ],
+                            "guid": "n=OdoR}F*-",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die Idee hinter Top-Down-Entwicklung?",
+                                "<div>\n<div>\n<div>\n<div>\n<div>Prozedurstümpfe erlauben frühzeitig das Programm zum Laufen zu bekommen&nbsp;</div>\n</div>\n</div>\n</div></div>"
+                            ],
+                            "guid": "u{(i#0>&.]",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "68fdc01a-a0ac-11ed-9300-491ec67777b1",
+                    "deck_config_uuid": "68fdc286-a0ac-11ed-9300-491ec67777b1",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "Informatik als Fachgebiet",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "WHAT IS MY PURPOSE?",
+                                "idc get me a coffee or something"
+                            ],
+                            "guid": "L>N:8Fhca6",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "68fbcf3a-a0ac-11ed-9300-491ec67777b1",
+                    "deck_config_uuid": "68fbd0d4-a0ac-11ed-9300-491ec67777b1",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "Screenshot 2023-01-29 at 19.26.25.png",
+                        "Screenshot 2023-01-29 at 19.31.41.png",
+                        "Screenshot 2023-01-29 at 19.32.01.png",
+                        "Screenshot 2023-01-29 at 19.32.53.png",
+                        "Screenshot 2023-01-29 at 19.35.16.png",
+                        "Screenshot 2023-01-29 at 19.36.37.png",
+                        "Screenshot 2023-01-29 at 19.37.13.png",
+                        "Screenshot 2023-01-29 at 19.38.23.png",
+                        "Screenshot 2023-01-29 at 19.41.22.png",
+                        "Screenshot 2023-01-29 at 19.46.19.png"
+                    ],
+                    "name": "Informationsdarstellung",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What is my purpose",
+                                "Du existierst, damit dein Deck geöffnet werden kann.<br><br>Oh God."
+                            ],
+                            "guid": "C@~[3|IRoS",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sind <b>binary coded decimals</b>?",
+                                "Eine Art, Zahlen darzustellen. 4 Bit repräsentieren jeweils eine Ziffer.<br><img src=\"Screenshot 2023-01-29 at 19.26.25.png\">"
+                            ],
+                            "guid": "O}bLc)A@x8",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche drei Möglichkeiten gibt es, negative Zahlen darzustellen?",
+                                "1) Vorzeichenbit + Wert (Sign + Magnitude)<br>2) 1er-Komplement<br>3) 2er-Komplement (die verbreiteteste Variante)"
+                            ],
+                            "guid": "uV:?e[Da^N",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie funktioniert <b>Sign + Magnitude</b>?",
+                                "<img src=\"Screenshot 2023-01-29 at 19.31.41.png\">"
+                            ],
+                            "guid": "x;*|qP^*m<",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie funktioniert das <b>1er-Komplement</b>?",
+                                "<img src=\"Screenshot 2023-01-29 at 19.32.01.png\">"
+                            ],
+                            "guid": "oGijC@wOc@",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie funktioniert das <b>2er-Komplement</b>?",
+                                "<img src=\"Screenshot 2023-01-29 at 19.32.53.png\">"
+                            ],
+                            "guid": "xuSApIl?SF",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Mit welcher schnellen Faustregel kann man ein <b>2er-Komplement</b> bilden?",
+                                "Bilde das 1er-Komplement deiner Zahl und addiere 1."
+                            ],
+                            "guid": "eFFl{9Wa7U",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche 3 Möglichkeiten gibt es für die Darstellung reeller Zahlen?",
+                                "<img src=\"Screenshot 2023-01-29 at 19.35.16.png\">"
+                            ],
+                            "guid": "OI3kn{Y#LR",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie funktioniert <b>IEEE-754</b>?",
+                                "<img src=\"Screenshot 2023-01-29 at 19.36.37.png\">"
+                            ],
+                            "guid": "fZ!giE^o_+",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was gibt es für <b>IEEE-754</b> Sonderfälle?",
+                                "<img src=\"Screenshot 2023-01-29 at 19.37.13.png\">"
+                            ],
+                            "guid": "Mw|p?8>m{/",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Ich bin eine <b>ASCII-Tabelle</b>!",
+                                "<img src=\"Screenshot 2023-01-29 at 19.38.23.png\">"
+                            ],
+                            "guid": "y!c&P*IK&h",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie groß ist ein <b>UTF8</b>-Zeichen?",
+                                "1-4 Byte"
+                            ],
+                            "guid": "s1IvzH/}pb",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welcher Regel folgt <b>UTF-8</b>?",
+                                "<img src=\"Screenshot 2023-01-29 at 19.41.22.png\">"
+                            ],
+                            "guid": "L<xFnr32*F",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie endet ein&nbsp;<b>String</b> in <b>C</b>?",
+                                "Mit einem&nbsp;<b>Nullbyte.</b>"
+                            ],
+                            "guid": "H+l_qpnHWk",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was besagt das <b>Nyquist-Shannon-Abtasttheorem</b>?",
+                                "<img src=\"Screenshot 2023-01-29 at 19.46.19.png\">"
+                            ],
+                            "guid": "p`.7ghs*%L",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "68fc8e48-a0ac-11ed-9300-491ec67777b1",
+                    "deck_config_uuid": "68fc9032-a0ac-11ed-9300-491ec67777b1",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "Screenshot 2023-01-29 at 20.44.37.png",
+                        "Screenshot 2023-01-29 at 20.44.57.png",
+                        "Screenshot 2023-01-29 at 20.45.17.png",
+                        "Screenshot 2023-01-29 at 20.45.54.png",
+                        "paste-5da88fbe60555bd0a940e3c5e8e4a6e77c1de8bd.jpg"
+                    ],
+                    "name": "Kontrollfluss",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What is my purpose",
+                                "Du existierst, damit dein Deck geöffnet werden kann.<br><br>Oh God."
+                            ],
+                            "guid": "Dev`g_[Poq",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was für <b>Scopes</b> bietet <b>C </b>für <b>Variablen</b>?",
+                                "Auto, Register, static, extern"
+                            ],
+                            "guid": "qEoWPU<_e+",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was bedeutet <b>auto</b> oder <b>register</b>?",
+                                "<img src=\"Screenshot 2023-01-29 at 20.44.37.png\">"
+                            ],
+                            "guid": "n:92wKL)tS",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was bedeutet <b>static</b>?",
+                                "<img src=\"Screenshot 2023-01-29 at 20.44.57.png\">"
+                            ],
+                            "guid": "x@ojklYJE=",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was bedeutet&nbsp;<b>extern</b>?",
+                                "<img src=\"Screenshot 2023-01-29 at 20.45.17.png\">"
+                            ],
+                            "guid": "v1&a%6`Qs*",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist der Syntax eines <b>If-Statements</b> in <b>C</b>?",
+                                "<img src=\"Screenshot 2023-01-29 at 20.45.54.png\">"
+                            ],
+                            "guid": "mA*;.eJ~i#",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie funktioniert ein&nbsp;<b>Switch-Statement</b>?",
+                                "<img src=\"paste-5da88fbe60555bd0a940e3c5e8e4a6e77c1de8bd.jpg\"><br>"
+                            ],
+                            "guid": "v]@[zzAu8M",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist der Unterschied zwischen einer <b>while</b> und einer <b>do while</b> Schleife?",
+                                "Die Überprüfung der Schleifenbedingung. Bei <b>while</b> passiert dies vor der Ausführung des Codes, bei <b>do while</b> danach."
+                            ],
+                            "guid": "er#st!c4I/",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "68fc0022-a0ac-11ed-9300-491ec67777b1",
+                    "deck_config_uuid": "68fc0338-a0ac-11ed-9300-491ec67777b1",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "Screenshot 2023-01-29 at 20.12.00.png",
+                        "Screenshot 2023-01-29 at 20.12.22.png",
+                        "Screenshot 2023-01-29 at 20.20.01.png",
+                        "Screenshot 2023-01-29 at 20.22.53.png",
+                        "Screenshot 2023-01-29 at 20.24.24.png",
+                        "Screenshot 2023-01-29 at 20.37.41.png",
+                        "Screenshot 2023-01-29 at 20.39.02.png",
+                        "paste-231d301088bcef86f5ef0cecbbe506b1335cbec0.jpg",
+                        "paste-3d4c0122aa7a9d5e1d8b1659f590ce103f19d46f.jpg"
+                    ],
+                    "name": "Programmiersprachen",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What is my purpose?",
+                                "Du existierst, damit dein Deck geöffnet werden kann.<br><br>Oh God."
+                            ],
+                            "guid": "CQeh]x?#4l",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist eine <b>Spezifikation</b>?",
+                                "<img src=\"Screenshot 2023-01-29 at 20.12.00.png\">"
+                            ],
+                            "guid": "yoLjI,dk%p",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was kann bei einer <b>Spezifikation</b> schiefgehen?",
+                                "<img src=\"Screenshot 2023-01-29 at 20.12.22.png\">"
+                            ],
+                            "guid": "MYz|]d9*4t",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist ein <b>Algorithmus</b>?",
+                                "<img src=\"Screenshot 2023-01-29 at 20.20.01.png\">"
+                            ],
+                            "guid": "rs)^,F!Wm9",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Ich bin eine Graphik die den Unterschied zwischen <b>Algorithmus</b> und <b>Programm</b> verdeutlicht!",
+                                "<img src=\"Screenshot 2023-01-29 at 20.22.53.png\">"
+                            ],
+                            "guid": "gWqj@fp>V&",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Ich bin eine Tabelle mit <b>C-Keywords</b>!",
+                                "<img src=\"Screenshot 2023-01-29 at 20.24.24.png\">"
+                            ],
+                            "guid": "jaNfjgwkR{",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "INSERT EBNF HERE",
+                                "INSERT EBNF HERE"
+                            ],
+                            "guid": "F|U/^-rASF",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Können wir (im Allgemeinen) wissen, ob ein <b>Algorithmus</b> terminiert?",
+                                "Nein, das Halteproblem kann i. A. nicht gelößt werden."
+                            ],
+                            "guid": "e%U2cKB;-8",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was macht ein <b>Compiler</b>?",
+                                "Konvertiert Code von einer Sprache in eine andere, bei gleicher Semantik.<br><img src=\"paste-231d301088bcef86f5ef0cecbbe506b1335cbec0.jpg\">"
+                            ],
+                            "guid": "k>&G#9x5):",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Ich bin eine Graphik, welche die Interaktion zwischen <b>Compiler</b>, <b>Linker</b> und <b>Loader</b> zeigt.",
+                                "<img src=\"paste-3d4c0122aa7a9d5e1d8b1659f590ce103f19d46f.jpg\">"
+                            ],
+                            "guid": "AY,Gbv6y=/",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie ist Speicher (häufig) aufgebaut?",
+                                "<img src=\"Screenshot 2023-01-29 at 20.37.41.png\">"
+                            ],
+                            "guid": "wkg3ljZEJ2",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist der Unterschied zwischen <b>Compiler</b> und <b>Interpreter</b>?",
+                                "<img src=\"Screenshot 2023-01-29 at 20.39.02.png\">"
+                            ],
+                            "guid": "pQwsj>y1p,",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "68fbb90a-a0ac-11ed-9300-491ec67777b1",
+                    "deck_config_uuid": "68fbbaae-a0ac-11ed-9300-491ec67777b1",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "Screenshot 2023-01-29 at 19.19.10.png"
+                    ],
+                    "name": "Rechnerarchitektur",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What is my Purpose?",
+                                "Du existierst, damit dein Deck geöffnet werden kann.<br><br>Oh God."
+                            ],
+                            "guid": "owaOlJx9&[",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sagt das <b>Prinzip der&nbsp;Zweiwertigkeit</b>?",
+                                "Jede Aussage hat entweder den Wert&nbsp;<b>wahr</b>&nbsp;oder&nbsp;<b>falsch</b>."
+                            ],
+                            "guid": "E9WiiB3(Bc",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sagt das&nbsp;<b>Prinzip vom ausgeschlossenen Widerspruch?</b>",
+                                "Keine Aussage ist zugleich <b>wahr</b> und <b>falsch</b>."
+                            ],
+                            "guid": "N~[Pr}(u74",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was besagt das&nbsp;<b>Prinzip der Extensionalität</b>?",
+                                "Der Wahrheitswert einer Aussagenverknüpfung hängt ausschließlich von den Wahrheitswerten ihrer Bestandteile ab."
+                            ],
+                            "guid": "jjFK?m_Q=+",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist der Unterschied zwischen <b>zustandslosen</b> und <b>zustandsbehafteten</b> <b>Schaltungen</b>?",
+                                "<img src=\"Screenshot 2023-01-29 at 19.19.10.png\">"
+                            ],
+                            "guid": "v_u:3upvh{",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "68fd2060-a0ac-11ed-9300-491ec67777b1",
+                    "deck_config_uuid": "68fd2380-a0ac-11ed-9300-491ec67777b1",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "Screenshot 2023-01-29 at 22.01.45.png",
+                        "Screenshot 2023-01-29 at 22.05.17.png",
+                        "Screenshot 2023-01-29 at 22.32.21.png",
+                        "Screenshot 2023-01-29 at 22.37.28.png",
+                        "Screenshot 2023-01-29 at 22.38.35.png",
+                        "paste-0ba6a6f4503ef9b421d27215d7d1433fabda3364.jpg",
+                        "paste-1866df1418d4ce755f0d8c25a5e594c41addd6b5.jpg",
+                        "paste-5d03020be628f31b8bd7d39040a7c3bd49ee4564.jpg",
+                        "paste-fbab7f11b40a9ff4fb6283f725f1c50abea2c7de.jpg"
+                    ],
+                    "name": "Strukturen",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "WIMP?",
+                                "Du existierst, damit dein Deck geöffnet werden kann.<br><br>Oh God."
+                            ],
+                            "guid": "D}7nxabUgM",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sind <b>Structs</b>?",
+                                "<img src=\"Screenshot 2023-01-29 at 22.01.45.png\">"
+                            ],
+                            "guid": "AoAV},JbW(",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie heißen die <b>Variablen</b> innerhalb einer <b>Struktur</b>?",
+                                "<b>members</b>"
+                            ],
+                            "guid": "KA-ile&7}A",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann man auf <b>member</b> zugreifen?",
+                                "<img src=\"Screenshot 2023-01-29 at 22.05.17.png\">"
+                            ],
+                            "guid": "ka#x&n_d4>",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Kann man <b>Strukturen</b> vergleichen?",
+                                "Nur mit eigenständig implementierten <b>Funktionen</b>."
+                            ],
+                            "guid": "Hy[Z2hmH/Y",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sollte man beim Übergeben von <b>Strukturen</b> beachten?",
+                                "Je nach Strukturgröße kann es sinnvoll sein, stattdessen einen Pointer zu übergeben. Siehe bspw. FILE*"
+                            ],
+                            "guid": "w=s-,B;K/w",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann man von einem <b>Structpointer</b> auf einen <b>Member</b> zugreifen?",
+                                "pp -&gt; member"
+                            ],
+                            "guid": "h2t1vu8m2<",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sollte bei Struct-Arrays beachtet werden?",
+                                "<img src=\"paste-1866df1418d4ce755f0d8c25a5e594c41addd6b5.jpg\">"
+                            ],
+                            "guid": "h90Cvt89Z>",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sind Unions?",
+                                "<img src=\"paste-fbab7f11b40a9ff4fb6283f725f1c50abea2c7de.jpg\">"
+                            ],
+                            "guid": "Mfv+_Ex?^O",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie groß ist eine <b>Union</b>?",
+                                "So groß wie das breiteste Element."
+                            ],
+                            "guid": "DP#_q)c[[",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sind Bitfields?",
+                                "<img src=\"Screenshot 2023-01-29 at 22.32.21.png\">"
+                            ],
+                            "guid": "DZ{l_fQ)^]",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sind <b>selbstreferenzielle</b> <b>Strukturen</b>?",
+                                "<b>Strukturen</b>, deren <b>Elemente</b> wieder auf die <b>Struktur</b> selbst verweisen,<br>bspw. <b>linked lists</b>."
+                            ],
+                            "guid": "lz81Dg*YA&",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist <b>typedef</b>?",
+                                "Eine Möglichkeit, Type, neu zu benennen.<br><img src=\"paste-5d03020be628f31b8bd7d39040a7c3bd49ee4564.jpg\">"
+                            ],
+                            "guid": "rhEAs^!r&;",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Operationen können auf einfach verkettete Listen angewendet werden?",
+                                "<img src=\"Screenshot 2023-01-29 at 22.37.28.png\">"
+                            ],
+                            "guid": "i+*2:qshV9",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche (zusätzlichen) Operationen können auf <b>doppelt verkettete Listen</b> angewendet werden?",
+                                "<img src=\"Screenshot 2023-01-29 at 22.38.35.png\">"
+                            ],
+                            "guid": "I<z=r)uC0|",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist ein <b>Binärbaum</b>?",
+                                "<img src=\"paste-0ba6a6f4503ef9b421d27215d7d1433fabda3364.jpg\">"
+                            ],
+                            "guid": "vaY6qDGMi]",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>INSERT OOP</b>",
+                                "<b>INSERT OOP</b>"
+                            ],
+                            "guid": "OvISSUo*bT",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "68fc28c2-a0ac-11ed-9300-491ec67777b1",
+                    "deck_config_uuid": "68fc2d68-a0ac-11ed-9300-491ec67777b1",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "paste-8890c63f992d39b5270a9772c1a722f81efd051f.jpg",
+                        "paste-9f10fc8e07c9276a5ba94417193a1c64b8fd51d7.jpg",
+                        "paste-a5cefab0052f45ca438f569448dcd23125b87557.jpg",
+                        "paste-d6780441695008906beea514e67654882eafdf29.jpg",
+                        "paste-fa0e41163a1cd48a5055979b6e9ec16b5bd64d11.jpg"
+                    ],
+                    "name": "Werkzeuge",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "WIMP!",
+                                "Du existierst, damit dein Deck geöffnet werden kann.<br><br>Oh God."
+                            ],
+                            "guid": "i2}#Xrw]6z",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Klassen von Betriebssystemen gibt es?",
+                                "<img src=\"paste-a5cefab0052f45ca438f569448dcd23125b87557.jpg\">"
+                            ],
+                            "guid": "uAc(-L?]n0",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Aufgaben übernimmt das Betriebssystem?",
+                                "<img src=\"paste-fa0e41163a1cd48a5055979b6e9ec16b5bd64d11.jpg\">"
+                            ],
+                            "guid": "nn/8#WC4D",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Arten der <b>Kommandoaggregation </b>kennst du?",
+                                "<img src=\"paste-8890c63f992d39b5270a9772c1a722f81efd051f.jpg\">"
+                            ],
+                            "guid": "b68+]?jlG:",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann Shell als Programmiersprache genutzt werden?",
+                                "<img src=\"paste-d6780441695008906beea514e67654882eafdf29.jpg\">"
+                            ],
+                            "guid": "dPiH5z~Q(p",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche <b style=\"\">Dateinamenmuster </b>gibt es?",
+                                "<img src=\"paste-9f10fc8e07c9276a5ba94417193a1c64b8fd51d7.jpg\">"
+                            ],
+                            "guid": "sJwBqIl?b_",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "68fcab94-a0ac-11ed-9300-491ec67777b1",
+                    "deck_config_uuid": "68fcad6a-a0ac-11ed-9300-491ec67777b1",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "Screenshot 2023-01-29 at 20.55.58.png",
+                        "Screenshot 2023-01-29 at 21.00.05.png",
+                        "Screenshot 2023-01-29 at 21.02.08.png",
+                        "Screenshot 2023-01-29 at 21.03.24.png",
+                        "Screenshot 2023-01-29 at 21.05.42.png",
+                        "Screenshot 2023-01-29 at 21.07.39.png",
+                        "paste-36025ec139db0af0fbea438a2aaaeeedd331b4ae.jpg",
+                        "paste-5470feb8b11d35c6da69b381b6035b9fa2494ef4.jpg",
+                        "paste-5d09db0caf1c1b4a188592262c9d2924ec384f8c.jpg",
+                        "paste-65914bdf0eedbf0d12e16e9d6aa73f13456301b5.jpg",
+                        "paste-81d39fbb2cf0b6d552b0eb0d5e62dc6dc16e895e.jpg",
+                        "paste-a4a5048343aa1f0e5253efd0b43a715a6b9e0024.jpg",
+                        "paste-f59ad0f0f77f655b6f2aac20a454db949cb85070.jpg"
+                    ],
+                    "name": "Zeiger und Felder",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Du existierst, damit dein Deck geöffnet werden kann.<br><br>Oh God.",
+                                "WIMP"
+                            ],
+                            "guid": "hydCp!V7h]",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Arten von Variablen landen wo im <b>Speicher</b>?",
+                                "<img src=\"paste-f59ad0f0f77f655b6f2aac20a454db949cb85070.jpg\"><br>"
+                            ],
+                            "guid": "h]p0/uKu$]",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist ein <b>Pointer</b>?",
+                                "Eine Variable, welche eine Speicheradresse enthält."
+                            ],
+                            "guid": "AM/XSXH:Cv",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sind die beiden <b>Pointer-Operatoren</b>?",
+                                "<img src=\"Screenshot 2023-01-29 at 20.55.58.png\">"
+                            ],
+                            "guid": "g:iLcWIl}]",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist beim Deklarieren eines Pointers wichtig?",
+                                "Es muss angegeben werden, auf was für einen Datentyp der Pointer zeigt. Alternativ kann&nbsp;<b>void</b>&nbsp;genannt werden, dann ist jedoch keine&nbsp; Pointerarithmetik möglich. (undefiniertes Verhalten)"
+                            ],
+                            "guid": "Mca*I]}weN",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Möglichkeiten gibt es zur Verwaltung des <b>Heaps</b>?",
+                                "<img src=\"Screenshot 2023-01-29 at 21.00.05.png\">"
+                            ],
+                            "guid": "h;4ypMa[z(",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "In welche Richtung wächst der <b>Heap</b>?",
+                                "Nach oben."
+                            ],
+                            "guid": "tb*^*1KzMc",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "In welche Richtung wächst der <b>Stack</b>?",
+                                "Nach unten."
+                            ],
+                            "guid": "ghL0~<$n^C",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist bei malloc() besser; große oder kleine Blöcke?",
+                                "Es kommt drauf an&nbsp;<img src=\"paste-5d09db0caf1c1b4a188592262c9d2924ec384f8c.jpg\"><br><br><img src=\"Screenshot 2023-01-29 at 21.02.08.png\">"
+                            ],
+                            "guid": "k+iyY`R1q3",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist der Unterschied zwischen einer Zeichenkettenkonstante und einem Feld?",
+                                "<img src=\"Screenshot 2023-01-29 at 21.03.24.png\">"
+                            ],
+                            "guid": "J4]4QP5hl~",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist ein mehrdimensionales <b>Array</b>?",
+                                "Ein <b>Array</b> voller <b>Pointer</b>"
+                            ],
+                            "guid": "Qs!wnS+$!t",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sind die traditionellen <b>Parameter</b> von <b>main()</b>?",
+                                "<img src=\"Screenshot 2023-01-29 at 21.05.42.png\">"
+                            ],
+                            "guid": "OR+xa%eMUa",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie funktionieren <b>Function-Pointer</b>?",
+                                "<img src=\"Screenshot 2023-01-29 at 21.07.39.png\">"
+                            ],
+                            "guid": "te0>I0qO0`",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie sieht <b>virtueller </b>Speicher aus, bzw. welche Bereiche gibt es und wie werden diese adressiert?",
+                                "<img src=\"paste-5470feb8b11d35c6da69b381b6035b9fa2494ef4.jpg\"><br><br>Speicheradresses sind immer relativ zum Programstart und es gibt einen maximalen offset."
+                            ],
+                            "guid": "CFed(H6^+K",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wo spricht man von virtuellen Adressen?",
+                                "<img src=\"paste-a4a5048343aa1f0e5253efd0b43a715a6b9e0024.jpg\">"
+                            ],
+                            "guid": "GO5!sSXUh1",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Warum reicht bei Data und BSS einen konstant großen Speicherbereich?",
+                                "<img src=\"paste-36025ec139db0af0fbea438a2aaaeeedd331b4ae.jpg\">"
+                            ],
+                            "guid": "oF=Bu*3hDC",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche zwei Arten des Speichers werden dynamisch zur Laufzeit verwaltet?",
+                                "<img src=\"paste-65914bdf0eedbf0d12e16e9d6aa73f13456301b5.jpg\">"
+                            ],
+                            "guid": "roLL?eJh1z",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie wird \"pass-by-reference\" in C umgesetzt?",
+                                "<img src=\"paste-81d39fbb2cf0b6d552b0eb0d5e62dc6dc16e895e.jpg\">"
+                            ],
+                            "guid": "pRe2lchR+e",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Warum kann man einen array-pointer nicht neu zuweisen?",
+                                "Da er auf konstante Adresse zeigt, die dem Compiler direkte Adressierung ermöglicht"
+                            ],
+                            "guid": "K<x/(hUKh6",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        }
+                    ]
+                }
+            ],
+            "crowdanki_uuid": "68fbaa64-a0ac-11ed-9300-491ec67777b1",
+            "deck_config_uuid": "68fbac62-a0ac-11ed-9300-491ec67777b1",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "PT1",
+            "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "68fac5cc-a0ac-11ed-9300-491ec67777b1",
+                    "deck_config_uuid": "68fac8b0-a0ac-11ed-9300-491ec67777b1",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "paste-23b82cb6acd0c79fb6ab8a9376c5e2b12880e32c.jpg"
+                    ],
+                    "name": "Allgemeines",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie sieht die typische Methodik der Fallbearbeitung aus?",
+                                "<img src=\"paste-23b82cb6acd0c79fb6ab8a9376c5e2b12880e32c.jpg\">"
+                            ],
+                            "guid": "MgZJ]xP{Y&",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "68fad968-a0ac-11ed-9300-491ec67777b1",
+                    "deck_config_uuid": "68fadaf8-a0ac-11ed-9300-491ec67777b1",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "paste-3cc3414902637db72f52f640ea0cb084a837ce68.jpg",
+                        "paste-47cad88f930e2c75161030d8511d2ed8078b21e0.jpg",
+                        "paste-5af13213f4182214266d23c8ae27dab41bd9829b.jpg",
+                        "paste-6caed44449eb15a2bae079601deca4f8f5934585.jpg",
+                        "paste-75c6d9cbfb2357671dc6eb7f47a6b61d8fef3319.jpg",
+                        "paste-780c96fb516b98942cd5eff2c22fddc36b2c2611.jpg",
+                        "paste-7ee60b6eb317c710f345e31c3d4fda6b6bb8b3ee.jpg",
+                        "paste-8ff2c72e28c807c2dd12a90ae2794bbdc7cb5a0c.jpg",
+                        "paste-9fb197bab2706eb3f075f77ef62c54edfaa254bc.jpg",
+                        "paste-b0890ac1024c44e5d693d3683f80621ff009d6a6.jpg",
+                        "paste-b4c00bb046a349d27d1e9b41e7fa0aa2cd4587f6.jpg",
+                        "paste-f5637f90ba495a91d5eeb320f9d931be94c675d4.jpg"
+                    ],
+                    "name": "Kaufvertrag",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Grundvoraussetzung muss für einen Vertragsschluss erfüllt sein",
+                                "-Zwei sich deckende <b>Willenserklärungen </b>(Müssen notwendingen Vertragsinhalt enthalten)<br>=&gt;&nbsp;<b>\"Angebot\" </b>und <b>\"Annahme\"</b>"
+                            ],
+                            "guid": "B{&x3k7N*B",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welchen Inhalt müssen die <b>Willenserklärungen</b>&nbsp;bei einem Kaufvertrag abdecken?",
+                                "<b>Kaufsache </b>und <b>Kaufpreis</b>"
+                            ],
+                            "guid": "k0IbN4(Yxi",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Bedingung muss ein <b>Vertragsangebot </b>erfüllen? Was folgt daraus?",
+                                "<img src=\"paste-b4c00bb046a349d27d1e9b41e7fa0aa2cd4587f6.jpg\">"
+                            ],
+                            "guid": "E{x]WzWXw.",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Inhalt <b>§145</b>",
+                                "<i>\"Wer einem anderen die Schließung eines Vertrags anträgt, ist an den Antrag gebunden, es sei denn, dass er die Gebundenheit ausgeschlossen hat.\"</i>"
+                            ],
+                            "guid": "i:?8iAug,l",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was bedeutet <b>Vertragsfreiheit?</b>",
+                                "<img src=\"paste-f5637f90ba495a91d5eeb320f9d931be94c675d4.jpg\">"
+                            ],
+                            "guid": "JLVF=u7n`,",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wodurch kann die <b>Abschlussfreiheit</b>&nbsp;eingeschränkt werden?",
+                                "<img src=\"paste-5af13213f4182214266d23c8ae27dab41bd9829b.jpg\">"
+                            ],
+                            "guid": "AF%|c:c;EW",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wird das Vertragsrecht vom Gesetzgeber eingeschränkt? Und wenn ja, inwiefern?",
+                                "<img src=\"paste-75c6d9cbfb2357671dc6eb7f47a6b61d8fef3319.jpg\">"
+                            ],
+                            "guid": "iW+9Q=U6xs",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Inhalt <b>§433</b>",
+                                "<i>\"(1) Durch den Kaufvertrag wird der <font color=\"#0000ff\">Verkäufer </font>einer Sache <font color=\"#0000ff\">verpflichtet</font>, <font color=\"#0000ff\">dem Käufer </font>die <font color=\"#0000ff\">Sache </font>zu <font color=\"#0000ff\">übergeben </font>und das <font color=\"#0000ff\">Eigentum </font>an der Sache <font color=\"#0000ff\">zu verschaffen</font>. Der Verkäufer hat dem Käufer die Sache <font color=\"#0000ff\">frei von Sach- und Rechtsmängeln</font> zu verschaffen.<br><br>(2) Der <font color=\"#0000ff\">Käufer </font>ist <font color=\"#0000ff\">verpflichtet</font>, dem Verkäufer den <font color=\"#0000ff\">vereinbarten Kaufpreis zu zahlen</font> und die gekaufte <font color=\"#0000ff\">Sache abzunehmen</font>.\"<br></i>"
+                            ],
+                            "guid": "NDEW~g}9fD",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist das <b>Abstraktionsprinzip</b>?",
+                                "<img src=\"paste-b0890ac1024c44e5d693d3683f80621ff009d6a6.jpg\">"
+                            ],
+                            "guid": "tmJ?H*]tY#",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Inhalt <b>§133</b>",
+                                "<i>\"Bei der Auslegung einer Willenserklärung ist der <font color=\"#0000ff\">wirkliche Wille</font> zu erforschen und nicht an dem buchstäblichen Sinne des Ausdrucks zu haften.\"</i>"
+                            ],
+                            "guid": "E$B5O&FHbi",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Inhalt <b>§157</b>",
+                                "<i>\"</i>Verträge sind so auszulegen, wie Treu und Glauben mit Rücksicht auf die Verkehrssitte es erfordern.<i>\"<br><b>=&gt; \"objektivierter Empfangshorizont\"</b></i>"
+                            ],
+                            "guid": "uJ`yRAp65?",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Inhalt <b>§130</b>",
+                                "<i>\"(1) Eine <font color=\"#0000ff\">Willenserklärung</font>, die einem anderen gegenüber <font color=\"#0000ff\">abzugeben</font> ist, wird, wenn sie <font color=\"#0000ff\">in dessen Abwesenheit</font> abgegeben wird, in dem <font color=\"#0000ff\">Zeitpunkt wirksam</font>, in welchem sie <font color=\"#0000ff\">ihm zugeht</font>. Sie wird nicht wirksam, wenn dem anderen vorher oder gleichzeitig ein Widerruf zugeht.\"</i>"
+                            ],
+                            "guid": "lJYU^q4c7]",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie stellt man methodisch fest, ob ein Vertrag zustande gekommen ist?",
+                                "<img src=\"paste-780c96fb516b98942cd5eff2c22fddc36b2c2611.jpg\">"
+                            ],
+                            "guid": "Ly/e9([WAR",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Beispiel:<br></b><img src=\"paste-7ee60b6eb317c710f345e31c3d4fda6b6bb8b3ee.jpg\"><b><br></b>",
+                                "<img src=\"paste-47cad88f930e2c75161030d8511d2ed8078b21e0.jpg\">"
+                            ],
+                            "guid": "uxb(*2imwc",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Beispiel:<br></b><img src=\"paste-3cc3414902637db72f52f640ea0cb084a837ce68.jpg\">",
+                                "<img src=\"paste-9fb197bab2706eb3f075f77ef62c54edfaa254bc.jpg\">"
+                            ],
+                            "guid": "L*Hw2FCV&]",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie wird ein Kaufvertrag bei <b>Irrtum ausgelegt</b>&nbsp;und welche Rechtsfolgen ergeben sich?",
+                                "<img src=\"paste-8ff2c72e28c807c2dd12a90ae2794bbdc7cb5a0c.jpg\">"
+                            ],
+                            "guid": "tJ[$V#jy_x",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Inhalt <b>§142</b>",
+                                "<i>\"(1) Wird ein <font color=\"#0000ff\">anfechtbares </font>Rechtsgeschäft angefochten, so ist es als <font color=\"#0000ff\">von Anfang an nichtig</font> anzusehen.<br><br>(2) Wer die Anfechtbarkeit kannte oder kennen musste, wird, wenn die Anfechtung erfolgt, so behandelt, wie wenn er die Nichtigkeit des Rechtsgeschäfts gekannt hätte oder hätte kennen müssen.\"</i>"
+                            ],
+                            "guid": "A8ZQT3r{b=",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was muss der <b>Anfechtende </b>leisten und wie nenn man das?",
+                                "Der Anfechtende muss nach § 122 BGB ggf. Schadenersatz<br>leisten.&nbsp;<br><b>=&gt; Vertrauensschaden</b>"
+                            ],
+                            "guid": "B]5_xN..9W",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Inhalt <b>§122</b>",
+                                "<i>\"(1) Ist eine Willense<font color=\"#0000ff\">rklärung nach § 118 nichtig </font>oder auf Grund der<font color=\"#0000ff\"> §§ 119, 120 </font>angefochten, so hat der Erklärende, wenn die Erklärung einem anderen gegenüber abzugeben war, diesem, andernfalls<font color=\"#0000ff\"> jedem Dritten den Schaden zu ersetzen</font>, den der andere oder der Dritte dadurch erleidet, dass er <font color=\"#0000ff\">auf die Gültigkeit der Erklärung vertraut</font>, jedoch <font color=\"#0000ff\">nicht über den Betrag des Interesses hinaus</font>, welches der andere oder der Dritte an der Gültigkeit der Erklärung hat.<br><br><b>=&gt; Vertrauensschaden</b><br><br>(2) Die Schadensersatzpflicht tritt nicht ein, wenn der Beschädigte den Grund der Nichtigkeit oder der Anfechtbarkeit kannte oder infolge von Fahrlässigkeit nicht kannte (kennen musste).\"</i>"
+                            ],
+                            "guid": "HK(M84jh#v",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Inhalt <b>§119</b>",
+                                "<i><b style=\"\">\"</b>(1) Wer bei der Abgabe einer Willenserklärung <font color=\"#0000ff\">über deren Inhalt im Irrtum</font> war oder eine <font color=\"#0000ff\">Erklärung dieses Inhalts überhaupt nicht abgeben wollte</font>, <font color=\"#0000ff\">kann </font>die Erklärung <font color=\"#0000ff\">anfechten</font>, wenn anzunehmen ist, dass er sie bei Kenntnis der Sachlage und bei verständiger Würdigung<b style=\"\">\"</b></i>"
+                            ],
+                            "guid": "{:XCyf(Lp",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie prüft man methodisch den Tatbestand der <b>Anfechtung</b>?",
+                                "<img src=\"paste-6caed44449eb15a2bae079601deca4f8f5934585.jpg\">"
+                            ],
+                            "guid": "qp=s.VCs/^",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Inhalt <b>§143</b>",
+                                "<i>\"(1) Die Anfechtung erfolgt durch Erklärung gegenüber dem Anfechtungsgegner.\"</i>"
+                            ],
+                            "guid": "AJ5>0a[D[=",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Inhalt <b>§123</b>",
+                                "<i>\"(1) Wer zur <font color=\"#0000ff\">Abgabe einer Willenserklärung</font> <font color=\"#0000ff\">durch </font>arglistige <font color=\"#0000ff\">Täuschung </font>oder widerrechtlich durch <font color=\"#0000ff\">Drohung </font>bestimmt worden ist, kann die Erklärung <font color=\"#0000ff\">anfechten</font>.\"</i>"
+                            ],
+                            "guid": "bDECB3]JLN",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "68fb1c3e-a0ac-11ed-9300-491ec67777b1",
+                    "deck_config_uuid": "68fb1e0a-a0ac-11ed-9300-491ec67777b1",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "paste-06f83cdb2708731c112e342f018012d3675663ce.jpg",
+                        "paste-0aa278876dac9290c6dc533d8fcef609f054bc3f.jpg"
+                    ],
+                    "name": "Minderjährigkeit",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Ab wann ist man <b>rechtsfähig</b>?",
+                                "Mit Vollendung der Geburt <b>(§1)</b>"
+                            ],
+                            "guid": "p2.M7-zFfR",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Ab wann ist man <b>volljährig</b>?",
+                                "Mit Vollendung des 18. Lebensjahrs&nbsp;<b>(§2)</b>"
+                            ],
+                            "guid": "zTe1@M<gI[",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wer ist&nbsp;<b>geschäftsunfähig</b>?",
+                                "<b>§104 <br>Geschäftsunfähig </b>ist: <dl><dt>1.</dt><dd><div>wer <b>nicht das siebente Lebensjahr vollendet</b> hat,</div></dd><dt>2.</dt><dd><div>wer\n sich in einem die freie Willensbestimmung ausschließenden Zustand \n<b>krankhafter Störung der Geistestätigkeit befindet</b>, sofern nicht der \nZustand seiner Natur nach ein vorübergehender ist.</div></dd></dl>"
+                            ],
+                            "guid": "ro}aREeLgg",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die <b>Willenserklärung </b>eines <b>Geschäftsunfähigen</b>?",
+                                "nichtig&nbsp;<b>(§105)</b>"
+                            ],
+                            "guid": "JL?jF7B4XJ",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Einschränkungen gelten für die Schadensverantwortung Minderjähriger?",
+                                "<div><div><div><div><b>§828</b><br></div><div>(1) Wer <b>nicht das siebente Lebensjahr vollende</b>t <b>hat</b>, ist für einen Schaden, den er einem anderen zufügt, <b>nicht verantwortlich</b>.</div><div>(2)\n Wer das siebente, aber nicht das zehnte Lebensjahr vollendet hat, ist \nfür den Schaden, den er bei einem <b>Unfall mit einem Kraftfahrzeug, einer \nSchienenbahn oder einer Schwebebahn</b> einem anderen zufügt, <b>nicht \nverantwortlich</b>. Dies gilt <b>nicht, wenn er die Verletzung vorsätzlich \nherbeigeführt hat</b>.</div><div>(3) Wer das 18. \nLebensjahr noch nicht vollendet hat, ist, sofern seine \nVerantwortlichkeit nicht nach Absatz 1 oder 2 ausgeschlossen ist, für \nden Schaden, den er einem anderen zufügt, nicht verantwortlich, wenn er \nbei der Begehung der schädigenden Handlung <b>nicht die zur Erkenntnis der \nVerantwortlichkeit erforderliche Einsicht hat.</b></div></div></div></div>"
+                            ],
+                            "guid": "KyeoF<6#sG",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wann braucht ein Minderjähriger keine <b>Einwilligung </b>für eine <b>Willenserklärung</b>?",
+                                "Bei einem rechtlich <b>lediglich vorteilhaften</b> Vertrag&nbsp;<b>(§107)</b>"
+                            ],
+                            "guid": "KZSotf8JoK",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Inhalt <b>(§108)</b>",
+                                "(1) Schließt der <b>Minderjährige </b>einen Vertrag <b>ohne die erforderliche \nEinwilligung</b> des gesetzlichen Vertreters, so <b>hängt die</b> <b>Wirksamkeit des \nVertrags von der Genehmigung des Vertreters ab</b><br><br>Ausnahmen nach <b>(§107)</b>"
+                            ],
+                            "guid": "HPVZ!Li]Jl",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was besagt die <b>Taschengeldklausel (§110)</b>?",
+                                "Ein von dem <b>Minderjährigen ohne Zustimmung </b>des gesetzlichen Vertreters \n<b>geschlossener Vertrag</b> gilt als<b> von Anfang an wirksam</b>, wenn der \nMinderjährige die <b>vertragsmäßige Leistung mit Mitteln bewirkt</b>, die ihm \nzu <b>diesem Zweck oder zu freier Verfügung </b>von <b>dem Vertreter oder mit \ndessen Zustimmung</b> von einem Dritten überlassen worden sind.<br><br>Wichtig ist hierbei <b>bewirkt</b>, eine Verschuldung ist also bspw. nicht möglich."
+                            ],
+                            "guid": "KRnJ/!j%pq",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Ist das Kindlein noch so klein...",
+                                "kann es trotzdem <b>Bote </b>sein. Boten geben keine eigene Willenserklärung ab."
+                            ],
+                            "guid": "CD6BQOK/2Z",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Ab wann ist man <b>beschränkt geschäftsfähig</b>?",
+                                "Mit dem Vollendeten siebten Lebensjahr."
+                            ],
+                            "guid": "I<:M1t4;9o",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Arten von minderjährigen Rechtsgeschäften (Grafik)",
+                                "<img src=\"paste-0aa278876dac9290c6dc533d8fcef609f054bc3f.jpg\">"
+                            ],
+                            "guid": "bdt[Ly<E>f",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Arten von Rechtsfähigkeit gibt es?",
+                                "<img src=\"paste-06f83cdb2708731c112e342f018012d3675663ce.jpg\">"
+                            ],
+                            "guid": "k__YvSh4_Y",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "68fb41d2-a0ac-11ed-9300-491ec67777b1",
+                    "deck_config_uuid": "68fb4376-a0ac-11ed-9300-491ec67777b1",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "paste-4babec6bee0d2b80f95e430243e7ca17de8b153c.jpg",
+                        "paste-69db900f3107557f175d3e0d6e8421af93c4e9e4.jpg",
+                        "paste-babb0c6a32fbb11734c61ce105de393da342e6f8.jpg",
+                        "paste-babf94ef6a076675ae056c20013d7b690e99c2c4.jpg",
+                        "paste-d3b0eae667153b80b2caaab426e1528f5e2fdd48.jpg",
+                        "paste-e1385f8d69b859914a80f0357dc648e4c8bcf768.jpg"
+                    ],
+                    "name": "Schadensersatz",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Auf welchen Grundlagen&nbsp;<b>könnte </b>ein Anspruch auf <b>Schadensersatz </b>bestehen?",
+                                "bei einer <b>Rechtsgutverletzung (§823 BGB)</b>&nbsp;oder einer&nbsp;<b>Pflichtverletzung (§280 BGB)&nbsp;</b>in einem <b>Schuldverhältnis</b><br>"
+                            ],
+                            "guid": "u|t;OA+!E5",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sind die drei Teile einer <b>Rechtsgutverletzung (§823 BGB)</b>?",
+                                "<img src=\"paste-d3b0eae667153b80b2caaab426e1528f5e2fdd48.jpg\">"
+                            ],
+                            "guid": "c*<n{n.RZN",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Unter welchen Bedingungen führt eine Rechtsgutverletzung zu Schadensersatzpflicht?",
+                                "<img src=\"paste-babf94ef6a076675ae056c20013d7b690e99c2c4.jpg\">"
+                            ],
+                            "guid": "DFM=MmOYOD",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Unter welchen Bedingungen führt eine Pflichtverletzung zur Schadensersatzpflicht?",
+                                "<img src=\"paste-babb0c6a32fbb11734c61ce105de393da342e6f8.jpg\">"
+                            ],
+                            "guid": "vs=5RmvzE.",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Inhalt §249 / Bedeutung des Terms&nbsp;<b>Naturalrestitution</b>",
+                                "<img src=\"paste-e1385f8d69b859914a80f0357dc648e4c8bcf768.jpg\">"
+                            ],
+                            "guid": "A!dS5_Y/e|",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist&nbsp;<b>schuldhaftes Handeln?</b>",
+                                "<b>vorsätzliches&nbsp;</b>oder&nbsp;<b>fahrlässiges (§276 Abs. 2 BGB)</b>&nbsp;Handeln&nbsp;"
+                            ],
+                            "guid": "poOrElp1n0",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Ist der Ersatz mangelhafter Ware Schadenersatz?",
+                                "Nein, es sei denn es entstehen weitere Rechtsgut/Pflichtverletzungen"
+                            ],
+                            "guid": "w+H}K!*/Gp",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Bei wem liegt die <b>Beweislast </b>beim <b>Schadensersatz </b>aufgrund von <b>Rechtsgutverletzung</b>?",
+                                "Beim <b>Gläubiger</b>"
+                            ],
+                            "guid": "Ovnb!,4W))",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Bei wem liegt die <b>Beweislast </b>beim <b>Schadensersatz </b>aufgrund von <b>Pflichtverletzung</b>?",
+                                "Beim <b>Schuldner, §280 BGB&nbsp;</b>ist spezifisch so formuliert"
+                            ],
+                            "guid": "wuvB+DV:!-",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wann ist eine&nbsp;<b>Pflichtverletzung</b>&nbsp;durch einen Schuldner nicht zu vertreten?",
+                                "Wenn der Schuldner weder <b>fahrlässig (§276)&nbsp;</b>noch <b>vorsätzlich </b>gehandelt hat."
+                            ],
+                            "guid": "s%j^}d7,x@",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Arten von&nbsp;<b>Pflichtverletzungen </b>gibt es?",
+                                "<img src=\"paste-4babec6bee0d2b80f95e430243e7ca17de8b153c.jpg\">"
+                            ],
+                            "guid": "r5gW-8I9`F",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Arten für <b>Schadensersatz </b>gibt es bei <b>Pflichtverletzungen</b>?",
+                                "<img src=\"paste-69db900f3107557f175d3e0d6e8421af93c4e9e4.jpg\">"
+                            ],
+                            "guid": "twEOu6Sc~w",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wann kann eine <b>Entschädigung in Geld</b> verlangt werden?",
+                                "<b>§253 immaterieller Schaden<br></b><div><div><div><div>(1) Wegen eines \nSchadens, der nicht Vermögensschaden ist, kann Entschädigung in Geld <b>nur\n in den durch das Gesetz bestimmten Fällen</b> gefordert werden.</div><div>(2)\n Ist wegen einer <b>Verletzung des Körpers, der Gesundheit, der Freiheit \noder der sexuellen Selbstbestimmung Schadensersatz zu leisten, kann auch\n wegen des Schadens, der nicht Vermögensschaden ist</b>, eine billige \nEntschädigung in Geld gefordert werden.</div></div></div></div>"
+                            ],
+                            "guid": "xX*zr09To$",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "68fb6914-a0ac-11ed-9300-491ec67777b1",
+                    "deck_config_uuid": "68fb6acc-a0ac-11ed-9300-491ec67777b1",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "paste-1f74cbb7af5543d8bdd2edae6de9deb842a77987.jpg",
+                        "paste-b104d37b14998820cdc50b7ba279dac570d6b2c2.jpg",
+                        "paste-b2e6901d0bba0ed2b81f01a627f563bbe124f222.jpg"
+                    ],
+                    "name": "Schuldverhältnis",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was bedeutet <b>\"Schuldverhältnis\"</b>?",
+                                "<img src=\"paste-b2e6901d0bba0ed2b81f01a627f563bbe124f222.jpg\">"
+                            ],
+                            "guid": "nkq&{p/kwB",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Arten von <b>Schuldverhältnissen</b>&nbsp;gibt es?",
+                                "<img src=\"paste-b104d37b14998820cdc50b7ba279dac570d6b2c2.jpg\"><br><img src=\"paste-1f74cbb7af5543d8bdd2edae6de9deb842a77987.jpg\">"
+                            ],
+                            "guid": "KycUKgnz/Z",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Grundfrage muss man sich im Zivilrecht immer stellen?",
+                                "<b>Wer will was von wem woraus </b>(5 W's)"
+                            ],
+                            "guid": "x!0lJ=.w9#",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "68fb85ca-a0ac-11ed-9300-491ec67777b1",
+                    "deck_config_uuid": "68fb8836-a0ac-11ed-9300-491ec67777b1",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "paste-10894d4e42b169b53b444f9896fc3bd87af596f9.jpg",
+                        "paste-18d2a4334cb8dedcb37877eebccbf1d9971225eb.jpg",
+                        "paste-3e4fee48f5f36a07a2cce6e79a89bea395038a36.jpg",
+                        "paste-4a3fa0a3f63eedd9217864fb9ef1b6d43d3e59fc.jpg",
+                        "paste-4d549a09995f4d89321c5eee199cb8fedf159d38.jpg",
+                        "paste-508a4a8c60653988aea6c0b6c235cdd3cd670591.jpg",
+                        "paste-87883749e22c01d2bdd7ff8aa399ac4a7d9b4700.jpg",
+                        "paste-936fda417c71ec0698de6232456ae6976177c286.jpg",
+                        "paste-9beda0630e29314935b740f20bfa861cade174dd.jpg"
+                    ],
+                    "name": "Stellvertretung",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Platzhalter1",
+                                ""
+                            ],
+                            "guid": "FA:OXiw:0?",
+                            "note_model_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Arten der <b>Stellvertretung </b>gibt es?",
+                                "<img src=\"paste-4a3fa0a3f63eedd9217864fb9ef1b6d43d3e59fc.jpg\">"
+                            ],
+                            "guid": "b{=E`EJ:;=",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie prüft man methodisch Stellvertretung?",
+                                "<img src=\"paste-18d2a4334cb8dedcb37877eebccbf1d9971225eb.jpg\">"
+                            ],
+                            "guid": "m5T_G(QNO(",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Inhalt <b>§164</b>",
+                                "<i>\"(1) Eine Willenserklärung, die jemand innerhalb der ihm zustehenden <font color=\"#0000ff\">Vertretungsmacht im Namen</font> des Vertretenen abgibt, <font color=\"#0000ff\">wirkt </font>unmittelbar <font color=\"#0000ff\">für und gegen</font> <font color=\"#0000ff\">den Vertretenen</font>. Es macht keinen Unterschied, ob die Erklärung ausdrücklich im Namen des Vertretenen erfolgt oder ob die Umstände ergeben, dass sie in dessen Namen erfolgen soll.\"</i>"
+                            ],
+                            "guid": "KxaZ#f$@6",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Inhalt <b>§179</b>",
+                                "<i>\"(1) Wer als Vertreter einen Vertrag geschlossen hat, ist, sofern er <font color=\"#0000ff\" style=\"\">nicht </font>seine<font color=\"#0000ff\" style=\"\">&nbsp;Vertretungsmacht nachweist</font>, dem anderen Teil nach dessen Wahl zur <font color=\"#0000ff\" style=\"\">Erfüllung oder zum Schadensersatz verpflichtet</font>, wenn der <font color=\"#0000ff\" style=\"\">Vertretene </font>die <font color=\"#0000ff\" style=\"\">Genehmigung </font>des Vertrags <font color=\"#0000ff\" style=\"\">verweigert</font>.<br><br>(2) Hat der Vertreter den Mangel der Vertretungsmacht nicht gekannt, so ist er nur zum Ersatz desjenigen Schadens verpflichtet, welchen der andere Teil dadurch erleidet, dass er auf die Vertretungsmacht vertraut, jedoch nicht über den Betrag des Interesses hinaus, welches der andere Teil an der Wirksamkeit des Vertrags hat.<br><br>(3) Der Vertreter haftet nicht, wenn der andere Teil den Mangel der Vertretungsmacht kannte oder kennen musste. Der Vertreter haftet auch dann nicht, wenn er in der Geschäftsfähigkeit beschränkt war, es sei denn, dass er mit Zustimmung seines gesetzlichen Vertreters gehandelt hat.\"</i>"
+                            ],
+                            "guid": "JHbQ[]CI~V",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Inhalt <b>§177</b>",
+                                "<i>\"1) <font color=\"#0000ff\">Schließt </font>jemand <font color=\"#0000ff\">ohne Vertretungsmacht </font>im Namen eines anderen einen Vertrag, so <font color=\"#0000ff\">hängt </font>die <font color=\"#0000ff\">Wirksamkeit</font> des Vertrags für und gegen den Vertretenen <font color=\"#0000ff\">von </font>dessen <font color=\"#0000ff\">Genehmigung ab</font>.\"</i>"
+                            ],
+                            "guid": "rY+XZ,-eNU",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Beispiel:<br></b><img src=\"paste-4d549a09995f4d89321c5eee199cb8fedf159d38.jpg\"><b><br></b>",
+                                "<img src=\"paste-87883749e22c01d2bdd7ff8aa399ac4a7d9b4700.jpg\">"
+                            ],
+                            "guid": "O.m?1rE4Y:",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist der Unteschied zwischen <b>Stellvertretung </b>und <b>Botenschaft</b>",
+                                "<img src=\"paste-3e4fee48f5f36a07a2cce6e79a89bea395038a36.jpg\">"
+                            ],
+                            "guid": "sY_7Ebx6u^",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann ein Schuldverhältnis zustande kommen?",
+                                "<img src=\"paste-10894d4e42b169b53b444f9896fc3bd87af596f9.jpg\"><br>============================================================================<br><img src=\"paste-9beda0630e29314935b740f20bfa861cade174dd.jpg\">"
+                            ],
+                            "guid": "nsA&_Jo@ZR",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was gilt im <b>Schuldverhältnis?</b>",
+                                "<img src=\"paste-936fda417c71ec0698de6232456ae6976177c286.jpg\"><br><img src=\"paste-508a4a8c60653988aea6c0b6c235cdd3cd670591.jpg\">"
+                            ],
+                            "guid": "I?u}T$sV|K",
+                            "note_model_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+                            "tags": []
+                        }
+                    ]
+                }
+            ],
+            "crowdanki_uuid": "68fab938-a0ac-11ed-9300-491ec67777b1",
+            "deck_config_uuid": "68fabb4a-a0ac-11ed-9300-491ec67777b1",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "Recht",
+            "notes": []
+        }
+    ],
+    "crowdanki_uuid": "68fa9db8-a0ac-11ed-9300-491ec67777b1",
+    "deck_config_uuid": "68faa4c0-a0ac-11ed-9300-491ec67777b1",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "68faa4c0-a0ac-11ed-9300-491ec67777b1",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "68fabb4a-a0ac-11ed-9300-491ec67777b1",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "68fac8b0-a0ac-11ed-9300-491ec67777b1",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "68fadaf8-a0ac-11ed-9300-491ec67777b1",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "68fb1e0a-a0ac-11ed-9300-491ec67777b1",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "68fb4376-a0ac-11ed-9300-491ec67777b1",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "68fb6acc-a0ac-11ed-9300-491ec67777b1",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "68fb8836-a0ac-11ed-9300-491ec67777b1",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "68fbac62-a0ac-11ed-9300-491ec67777b1",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "68fbbaae-a0ac-11ed-9300-491ec67777b1",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "68fbd0d4-a0ac-11ed-9300-491ec67777b1",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "68fc0338-a0ac-11ed-9300-491ec67777b1",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "68fc2d68-a0ac-11ed-9300-491ec67777b1",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "68fc4bae-a0ac-11ed-9300-491ec67777b1",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "68fc9032-a0ac-11ed-9300-491ec67777b1",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "68fcad6a-a0ac-11ed-9300-491ec67777b1",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "68fcdd12-a0ac-11ed-9300-491ec67777b1",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "68fd2380-a0ac-11ed-9300-491ec67777b1",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "68fd6890-a0ac-11ed-9300-491ec67777b1",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "68fd9734-a0ac-11ed-9300-491ec67777b1",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "68fdc286-a0ac-11ed-9300-491ec67777b1",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [],
+    "name": "HPI",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "68fad2a6-a0ac-11ed-9300-491ec67777b1",
+            "css": ".card {\n font-family: arial;\n font-size: 25px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic-67b30",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "68fb8fca-a0ac-11ed-9300-491ec67777b1",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+            "flds": [
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Definiere",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 35,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Definition",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Definiere",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Definition}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Karte 1",
+                    "ord": 0,
+                    "qfmt": "Definiere den Begriff: <br> \n<b>{{Definiere}}</b>"
+                }
+            ],
+            "type": 0
+        }
+    ],
+    "notes": []
+}
