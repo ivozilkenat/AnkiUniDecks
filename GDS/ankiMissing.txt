@@ -31,3 +31,6 @@
 -09
 -Emulator, Simulator?
 -auipc ?
+
+-11
+-Control kann nach jeder Instruktion einfach prüfen, ob Ausnahme vorliegt (in Hardware)
