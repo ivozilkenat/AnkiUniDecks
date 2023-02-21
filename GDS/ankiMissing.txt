@@ -1,0 +1,33 @@
+-Daten Defintion
+-Übungsblätter
+-Lernziele der Präsentationen durchgehen
+
+-01_ch_Überblick wichtig?
+
+-02 
+-UTF-8? -> bereits in PT
+
+-03
+-58
+-Energieeffizienz als Funktion der Taktfrequenz?
+
+-04
+-Wahrheitswerteverlauf Latches?
+
+-05
+-Formale Automatendefintion?
+-Automatenbeispiel?
+
+-06
+-Instruktionsregister, -zähler, etc. Ablauf  (Folie 69)
+
+-07
+-Ein- und Ausgabe, bezogen auf Zeit und Werteverhalten?	
+-AD-Wandler Varianten?
+
+-08
+-Adressierungsarten?
+
+-09
+-Emulator, Simulator?
+-auipc ?
