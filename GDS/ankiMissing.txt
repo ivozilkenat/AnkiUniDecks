@@ -34,3 +34,20 @@
 
 -11
 -Control kann nach jeder Instruktion einfach prüfen, ob Ausnahme vorliegt (in Hardware)
+
+-13
+-Herleitung Speedup, 16
+-F23
+
+-14
+-Tradeoffs seperater vs hierarchischer Speicher
+-Beispiele ab 64 (direkter Cache)
+-Bsp.: Aufteilung Adresse nach Cacheteilung
+-Thema: Leistungsfähigkeit
+
+-15
+-Bsp bei Cache-Kohärenz
+
+-17
+-DMA und Adressen, 24
+-RAID
